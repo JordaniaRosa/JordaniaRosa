@@ -1,7 +1,7 @@
 ### Olá! Souba Jordania Rosa 👋
 
 - 😉 Pretendo entrar na área de prgramação
-- 
+
 <div align="center">
   <a href="https://github.com/JordaniaRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordaniaRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
