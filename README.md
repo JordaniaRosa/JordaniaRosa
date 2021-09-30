@@ -1,4 +1,4 @@
-### Olá! Souba Jordania Rosa 👋
+### Olá! Sou a Jordania Rosa 👋
 
 - 😉 Pretendo entrar na área de prgramação
 
